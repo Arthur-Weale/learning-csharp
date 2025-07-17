@@ -1,0 +1,15 @@
+C:\Users\Arthur\repos\learning-csharp\playground\bin\Debug\net8.0\playground.exe
+C:\Users\Arthur\repos\learning-csharp\playground\bin\Debug\net8.0\playground.deps.json
+C:\Users\Arthur\repos\learning-csharp\playground\bin\Debug\net8.0\playground.runtimeconfig.json
+C:\Users\Arthur\repos\learning-csharp\playground\bin\Debug\net8.0\playground.dll
+C:\Users\Arthur\repos\learning-csharp\playground\bin\Debug\net8.0\playground.pdb
+C:\Users\Arthur\repos\learning-csharp\playground\obj\Debug\net8.0\playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\repos\learning-csharp\playground\obj\Debug\net8.0\playground.AssemblyInfoInputs.cache
+C:\Users\Arthur\repos\learning-csharp\playground\obj\Debug\net8.0\playground.AssemblyInfo.cs
+C:\Users\Arthur\repos\learning-csharp\playground\obj\Debug\net8.0\playground.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\repos\learning-csharp\playground\obj\Debug\net8.0\playground.sourcelink.json
+C:\Users\Arthur\repos\learning-csharp\playground\obj\Debug\net8.0\playground.dll
+C:\Users\Arthur\repos\learning-csharp\playground\obj\Debug\net8.0\refint\playground.dll
+C:\Users\Arthur\repos\learning-csharp\playground\obj\Debug\net8.0\playground.pdb
+C:\Users\Arthur\repos\learning-csharp\playground\obj\Debug\net8.0\playground.genruntimeconfig.cache
+C:\Users\Arthur\repos\learning-csharp\playground\obj\Debug\net8.0\ref\playground.dll
